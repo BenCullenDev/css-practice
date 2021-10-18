@@ -1,0 +1,12 @@
+body {
+    background-color: gainsboro;
+    font-family: 'Roboto', sans-serif;    
+}
+
+li {
+    list-style: none;
+    text-align: right;
+    display: inline-block;
+    align-items: right;
+    align-content: right;
+}
